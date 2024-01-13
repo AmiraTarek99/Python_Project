@@ -1,0 +1,44 @@
+[
+     {
+          "first name": "amira",
+          "last name": "tarek",
+          "email": "amiratarek1410@gmail.com",
+          "password": "A332244m$",
+          "phone": "01023689356"
+     },
+     {
+          "first name": "hassan",
+          "last name": "nabil",
+          "email": "hassannabil66@gmail.com",
+          "password": "A332244@m",
+          "phone": "01032652395"
+     },
+     {
+          "first name": "ali",
+          "last name": "ahmed",
+          "email": "aliahmed1411@gmail.com",
+          "password": "A124352@lli",
+          "phone": "01012882356"
+     },
+     {
+          "first name": "asmaa",
+          "last name": "yasser",
+          "email": "asmaayasser1410@gmail.com",
+          "password": "A778899@y",
+          "phone": "01023652862"
+     },
+     {
+          "first name": "omar",
+          "last name": "tarek",
+          "email": "omartarek@gmail.com",
+          "password": "A226699@m",
+          "phone": "01236452387"
+     },
+     {
+          "first name": "asmaa",
+          "last name": "hossam",
+          "email": "asmaahossam@gmail.com",
+          "password": "A223366@m",
+          "phone": "01285697563"
+     }
+]
